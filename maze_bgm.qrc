@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/bgm">
+        <file>music/defeat.wav</file>
+        <file>music/Two Steps From Hell - Victory.wav</file>
+        <file>music/victory.wav</file>
+        <file>music/yidong.wav</file>
+    </qresource>
+</RCC>

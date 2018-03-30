@@ -1,0 +1,13 @@
+INPUT(
+./release\qrc_maze.o
+./release\qrc_bgm.o
+./release\main.o
+./release\migong.o
+./release\victory.o
+./release\chaiqiang.o
+./release\defeatmenu.o
+./release\moc_migong.o
+./release\moc_victory.o
+./release\moc_chaiqiang.o
+./release\moc_defeatmenu.o
+);

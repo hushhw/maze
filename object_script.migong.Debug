@@ -1,0 +1,13 @@
+INPUT(
+./debug\qrc_maze.o
+./debug\qrc_bgm.o
+./debug\main.o
+./debug\migong.o
+./debug\victory.o
+./debug\chaiqiang.o
+./debug\defeatmenu.o
+./debug\moc_migong.o
+./debug\moc_victory.o
+./debug\moc_chaiqiang.o
+./debug\moc_defeatmenu.o
+);

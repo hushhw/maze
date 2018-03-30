@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/meze">
+        <file>img/1.jpg</file>
+        <file>img/2.jpg</file>
+        <file>img/3.jpg</file>
+        <file>img/4.jpg</file>
+        <file>img/5.jpg</file>
+        <file>img/6.jpg</file>
+        <file>img/liangcang.jpg</file>
+        <file>img/menu1.jpg</file>
+        <file>img/menu2.jpg</file>
+        <file>img/menu3.jpg</file>
+        <file>img/menu4.jpg</file>
+        <file>img/victory.jpg</file>
+        <file>img/return.jpg</file>
+        <file>img/chuanqiang.jpg</file>
+        <file>img/defeatmenu.jpg</file>
+    </qresource>
+</RCC>
