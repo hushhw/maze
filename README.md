@@ -7,19 +7,19 @@
 
 创建迷宫：
 
-![创建方块](F:\QT\创建.png)
+![创建方块](screenshot\创建.png)
 
 
 
 寻找路径：
 
-![寻路](F:\QT\寻路.png)
+![寻路](screenshot\寻路.png)
 
 
 
 拆除墙壁
 
-![拆墙](F:\QT\拆墙.png)
+![拆墙](screenshot\拆墙.png)
 
-![拆墙2](F:\QT\拆墙2.png)
+![拆墙2](screenshot\拆墙2.png)
 
